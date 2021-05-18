@@ -1,4 +1,5 @@
 <?
+namespace App\Models;
 
 include_once 'Interfaz.php';
 
