@@ -1,9 +1,12 @@
 <?
 
+
+require_once 'vendor/autoload.php';
+/*
 include_once 'app/Models/Job.php';
 include_once 'app/Models/Project.php';
-
 include_once 'lib1/Project.php';
+*/
 
 use App\Models\{Job,Project};
 
