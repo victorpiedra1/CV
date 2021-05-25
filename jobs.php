@@ -1,7 +1,6 @@
 <?
 
 
-require_once 'vendor/autoload.php';
 /*
 include_once 'app/Models/Job.php';
 include_once 'app/Models/Project.php';

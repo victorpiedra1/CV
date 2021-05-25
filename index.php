@@ -7,7 +7,6 @@
     //var_dump($nombre);
 
     require_once('jobs.php');
-
 ?>
 
 
