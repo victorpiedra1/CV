@@ -23,6 +23,12 @@
     <title>Document</title>
 </head>
 <body>
+    <nav>
+        <ul class="right barra">
+            <li><a href="formulario.php">Formulario entrada</a></li>
+        </ul>
+    </nav>
+        
 
      <!--////////////// Datos Personales ////////////////////  -->
     <div class="container">
